@@ -1,4 +1,5 @@
-{ "Home":"http://praduman99.github.io/Contactless_dine_in",
+{
+  "Home": "http://praduman99.github.io/Contactless_dine_in",
   "name": "contactless",
   "version": "0.1.0",
   "private": true,
@@ -13,13 +14,12 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
-     "predeploy":"npm run build",
-     "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
