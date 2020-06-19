@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.efb8b89e.chunk.js",
+    "main.js.map": "/static/js/main.efb8b89e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.92c9ebc8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.92c9ebc8.js.map",
+    "static/css/2.dde7cf73.chunk.css": "/static/css/2.dde7cf73.chunk.css",
+    "static/js/2.838e990d.chunk.js": "/static/js/2.838e990d.chunk.js",
+    "static/js/2.838e990d.chunk.js.map": "/static/js/2.838e990d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f82706204b13b03fc4a7e3f98d1a6302.js": "/precache-manifest.f82706204b13b03fc4a7e3f98d1a6302.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.dde7cf73.chunk.css.map": "/static/css/2.dde7cf73.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.838e990d.chunk.js.LICENSE.txt": "/static/js/2.838e990d.chunk.js.LICENSE.txt",
+    "static/media/choco.gif": "/static/media/choco.ede10722.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92c9ebc8.js",
+    "static/css/2.dde7cf73.chunk.css",
+    "static/js/2.838e990d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.efb8b89e.chunk.js"
+  ]
+}
