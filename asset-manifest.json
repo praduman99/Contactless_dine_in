@@ -1,26 +1,28 @@
 {
   "files": {
     "main.css": "/Contactless_dine_in/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Contactless_dine_in/static/js/main.00ac6a17.chunk.js",
-    "main.js.map": "/Contactless_dine_in/static/js/main.00ac6a17.chunk.js.map",
+    "main.js": "/Contactless_dine_in/static/js/main.579d9d22.chunk.js",
+    "main.js.map": "/Contactless_dine_in/static/js/main.579d9d22.chunk.js.map",
     "runtime-main.js": "/Contactless_dine_in/static/js/runtime-main.db959325.js",
     "runtime-main.js.map": "/Contactless_dine_in/static/js/runtime-main.db959325.js.map",
     "static/css/2.dde7cf73.chunk.css": "/Contactless_dine_in/static/css/2.dde7cf73.chunk.css",
-    "static/js/2.10af4a2c.chunk.js": "/Contactless_dine_in/static/js/2.10af4a2c.chunk.js",
-    "static/js/2.10af4a2c.chunk.js.map": "/Contactless_dine_in/static/js/2.10af4a2c.chunk.js.map",
+    "static/js/2.2f04a1ba.chunk.js": "/Contactless_dine_in/static/js/2.2f04a1ba.chunk.js",
+    "static/js/2.2f04a1ba.chunk.js.map": "/Contactless_dine_in/static/js/2.2f04a1ba.chunk.js.map",
     "index.html": "/Contactless_dine_in/index.html",
-    "precache-manifest.a5487b582c9be2ccb13900cd73f6ed0b.js": "/Contactless_dine_in/precache-manifest.a5487b582c9be2ccb13900cd73f6ed0b.js",
+    "precache-manifest.5c760b1891352b62790ebc6810e2ac6e.js": "/Contactless_dine_in/precache-manifest.5c760b1891352b62790ebc6810e2ac6e.js",
     "service-worker.js": "/Contactless_dine_in/service-worker.js",
     "static/css/2.dde7cf73.chunk.css.map": "/Contactless_dine_in/static/css/2.dde7cf73.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/Contactless_dine_in/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.10af4a2c.chunk.js.LICENSE.txt": "/Contactless_dine_in/static/js/2.10af4a2c.chunk.js.LICENSE.txt",
-    "static/media/choco.gif": "/Contactless_dine_in/static/media/choco.ede10722.gif"
+    "static/js/2.2f04a1ba.chunk.js.LICENSE.txt": "/Contactless_dine_in/static/js/2.2f04a1ba.chunk.js.LICENSE.txt",
+    "static/media/step2.webp": "/Contactless_dine_in/static/media/step2.7950894e.webp",
+    "static/media/step3.webp": "/Contactless_dine_in/static/media/step3.1aa40710.webp",
+    "static/media/table.png": "/Contactless_dine_in/static/media/table.af2205cb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.db959325.js",
     "static/css/2.dde7cf73.chunk.css",
-    "static/js/2.10af4a2c.chunk.js",
+    "static/js/2.2f04a1ba.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.00ac6a17.chunk.js"
+    "static/js/main.579d9d22.chunk.js"
   ]
 }

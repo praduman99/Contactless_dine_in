@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Contactless_dine_in/precache-manifest.a5487b582c9be2ccb13900cd73f6ed0b.js"
+  "/Contactless_dine_in/precache-manifest.5c760b1891352b62790ebc6810e2ac6e.js"
 );
 
 self.addEventListener('message', (event) => {
